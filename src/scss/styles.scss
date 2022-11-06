@@ -1,0 +1,13 @@
+// Custom scss
+@import "partials/profile-image";
+@import "partials/variables";
+
+
+//Original files
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+
+// Font
+:root {
+    --bs-body-font-family: Futura, open-sans, sans-serif;
+    --bs-body-font-weight: 200;
+  }
